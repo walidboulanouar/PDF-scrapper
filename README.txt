@@ -1,0 +1,2 @@
+-install python packages: pip install -r requirements.txt
+-run scraper: python parse.py
